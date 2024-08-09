@@ -5,10 +5,10 @@
 - 🌱 Estudando: Systems analysis and development
 
 <a href="https://github.com/HumbertoCF/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HumbertoCF&theme=radical&show_icons=true"" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HumbertoCF&theme=radical&show_icons=true"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HumbertoCF&layout=compact&langs_count=8&card_width=32&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HumbertoCF&layout=compact&langs_count=8&card_width=32&theme=radical" />
 </a>
 
 ##
